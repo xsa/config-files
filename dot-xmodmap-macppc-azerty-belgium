@@ -1,0 +1,32 @@
+clear Shift
+clear Lock
+clear Control
+clear Mod1
+clear Mod2
+
+keycode 14 = parenleft 5 braceleft bracketleft
+keycode 20 = parenright degree braceright bracketright
+keycode 23 = Tab ISO_Left_Tab
+keycode 35 = dollar asterisk EuroSign yen
+keycode 36 = Return
+keycode 37 = Control_L
+keycode 46 = l L bar bar
+keycode 49 = less greater guillemotright guillemotleft
+keycode 50 = Shift_L
+keycode 51 = dead_grave sterling
+keycode 54 = c C copyright copyright
+keycode 57 = n N asciitilde dead_tilde
+keycode 60 = colon slash division backslash
+keycode 64 = Alt_L
+keycode 66 = Caps_Lock
+keycode 94 = at numbersign
+keycode 107 = BackSpace Delete Delete BackSpace
+keycode 115 = Mode_switch
+keycode 116 = Mode_switch
+
+add Shift = Shift_L
+add Control = Control_L
+add Lock = Caps_Lock
+
+add Mod1 = Alt_L
+add Mod2 = Mode_switch
