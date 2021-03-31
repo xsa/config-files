@@ -7,10 +7,10 @@ lock:
 mount-loach: mount-loach-ports mount-loach-src
 
 mount-loach-ports:
-  ${SUDO} mount_nfs loach:/home/OpenBSD/ports /loach/openbsd/ports
+  @${SUDO} mount_nfs loach:/home/OpenBSD/ports /loach/openbsd/ports
 
 mount-loach-src:
-  ${SUDO} mount_nfs loach:/home/OpenBSD/src /loach/openbsd/src
+  @${SUDO} mount_nfs loach:/home/OpenBSD/src /loach/openbsd/src
   
 .include <bsd.own.mk>
   
