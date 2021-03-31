@@ -11,7 +11,7 @@ Mainly OpenBSD :blowfish: related files. Goes waaaay back and not necessarily up
   - Runs `Mac OS X`
 - Apple PowerBook G4 800MHz 15" (DVI)
   - Dual boot `OpenBSD/macppc` and `Mac OS X`
-- Apple PowerBook G4 1.5GHz 12"
+- Apple PowerBook G4 1.5GHz 12" (*twelvy.santolaria.net*)
   - Dual boot `OpenBSD/macppc` and `Mac OS X`
 - Compaq AlphaServer DS10
   - Runs `OpenBSD/alpha`
@@ -25,7 +25,7 @@ Mainly OpenBSD :blowfish: related files. Goes waaaay back and not necessarily up
   - Runs `OpenBSD/i386`
 - SGI O2 R5000
   - Runs `OpenBSD/sgi`
-- Sharp Zaurus SL-C3000
+- Sharp Zaurus SL-C3000 (*zed.santolaria.net*)
   - Runs `OpenBSD/zaurus`
 - Soekris net4801
   - Runs `OpenBSD/i386`
@@ -33,7 +33,7 @@ Mainly OpenBSD :blowfish: related files. Goes waaaay back and not necessarily up
   - Runs `OpenBSD/sparc`
 - Sun SPARCstation IPX (x2)
   - Runs `OpenBSD/sparc`
-- Sun UltraSPARC 30 (300 MHz)
+- Sun UltraSPARC 30 (300 MHz) (*loach.santolaria.net*)
   - Runs `OpenBSD/sparc64`
   
 ### Museum Machines
