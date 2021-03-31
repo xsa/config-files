@@ -11,6 +11,16 @@ mount-loach-ports:
 
 mount-loach-src:
   @${SUDO} mount_nfs loach:/home/OpenBSD/src /loach/openbsd/src
+
+resume:
+  @cd ~/santolaria.net/www/xsa && \
+    tex &latex resume.tex && dvipdf resume.dvi && \
+    latex2html \
+      -split 0
+      -no_auto_link \
+      -noinfo \
+      -dir resume/ -mkdir \
+      resume.text
   
 .include <bsd.own.mk>
   
