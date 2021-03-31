@@ -4,7 +4,7 @@ Mainly OpenBSD :blowfish: related files. Goes waaaay back and not necessarily up
 
 ## List of Owned Devices
 
-*Note: I may not necessarily own all of these devices today. Most of them were running [OpenBSD](https://www.openbsd.org).*
+*Note: I may not necessarily own all of these devices today anymore. Most of them were running [OpenBSD](https://www.openbsd.org).*
 
 ### Daily Hacking Machines
 - Apple iMac G4 15"
@@ -19,9 +19,9 @@ Mainly OpenBSD :blowfish: related files. Goes waaaay back and not necessarily up
   - Runs `OpenBSD/i386`
 - HP 9000/715/50
   - Runs `OpenBSD/hppa`
-- Intel Pentium II 300Mhz
+- ~~Intel Pentium II 300Mhz~~
   - Runs `OpenBSD/i386`
-- Intel Pentium II 350Mhz
+- ~~Intel Pentium II 350Mhz~~
   - Runs `OpenBSD/i386`
 - SGI O2 R5000
   - Runs `OpenBSD/sgi`
@@ -51,4 +51,4 @@ Mainly OpenBSD :blowfish: related files. Goes waaaay back and not necessarily up
   - Runs `macOS 8.5`
 - Apple Power Macintosh G3/266 DT
 - Atari 520ST
-- IBM AS/400 (sold in 2020)
+- ~~IBM AS/400~~
