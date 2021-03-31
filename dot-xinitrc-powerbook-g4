@@ -1,0 +1,7 @@
+xmodmap /home/xsa/.Xmodmap
+xset b off
+#xv -root -quit -max -smooth /home/xsa/images/wallpapers/puflogv1000X650.gif
+#exec /usr/X11R6/bin/cwm
+exec /usr/local/bin/wmaker
+/usr/local/bin/wmsetbg -s -u /home/xsa/images/wallpapers/puflogv1000X650.gif
+/usr/local/bin/wmapm &
