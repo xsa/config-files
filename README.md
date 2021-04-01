@@ -4,7 +4,8 @@ Mainly OpenBSD :blowfish: related files. Goes waaaay back and not necessarily up
 
 ## List of Owned Devices
 
-*Note: I may not necessarily own all of these devices today anymore. Most of them were running [OpenBSD](https://www.openbsd.org).*
+Note: I may not necessarily own all of these devices today anymore. Most of them were running [OpenBSD](https://www.openbsd.org).
+See this [repository](https://github.com/xsa/openbsd-dmesgs) for the [dmesg(8)](https://man.openbsd.org/dmesg) outputs.
 
 ### Daily Hacking Machines
 - Apple iMac G4 15"
