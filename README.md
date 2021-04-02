@@ -10,7 +10,7 @@ See this [repository](https://github.com/xsa/openbsd-dmesgs) for the [dmesg(8)](
 ### Daily Hacking Machines
 - Apple iMac G4 15"
   - Runs `Mac OS X`
-- Apple PowerBook G4 800MHz 15" (DVI)
+- Apple PowerBook G4 800MHz 15" (DVI) (*kinky.santolaria.net*)
   - Dual boot `OpenBSD/macppc` and `Mac OS X`
 - Apple PowerBook G4 1.5GHz 12" (*twelvy.santolaria.net*)
   - Dual boot `OpenBSD/macppc` and `Mac OS X`
